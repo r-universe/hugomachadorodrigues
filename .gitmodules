@@ -5,6 +5,9 @@
 [submodule "soilFlux"]
 	path = soilFlux
 	url = https://github.com/hugomachadorodrigues/soilflux
+[submodule "soilKey"]
+	path = soilKey
+	url = https://github.com/hugomachadorodrigues/soilkey
 [submodule "soilVAE"]
 	path = soilVAE
 	url = https://github.com/hugomachadorodrigues/soilvae
