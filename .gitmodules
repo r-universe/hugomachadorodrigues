@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "GeoVersa"]
+	path = GeoVersa
+	url = https://github.com/hugomachadorodrigues/geoversa
 [submodule "soilFlux"]
 	path = soilFlux
 	url = https://github.com/hugomachadorodrigues/soilflux
