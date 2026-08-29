@@ -7,7 +7,7 @@
 	url = https://github.com/hugomachadorodrigues/geoversa
 [submodule "soilFlux"]
 	path = soilFlux
-	url = https://github.com/hugomachadorodrigues/soilflux
+	url = https://github.com/cran/soilFlux
 [submodule "soilKey"]
 	path = soilKey
 	url = https://github.com/hugomachadorodrigues/soilkey
