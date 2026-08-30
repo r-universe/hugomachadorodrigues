@@ -4,13 +4,13 @@
 	branch = HEAD
 [submodule "GeoVersa"]
 	path = GeoVersa
-	url = https://github.com/hugomachadorodrigues/geoversa
+	url = https://github.com/cran/GeoVersa
 [submodule "soilFlux"]
 	path = soilFlux
 	url = https://github.com/cran/soilFlux
 [submodule "soilKey"]
 	path = soilKey
-	url = https://github.com/hugomachadorodrigues/soilkey
+	url = https://github.com/cran/soilKey
 [submodule "soilVAE"]
 	path = soilVAE
-	url = https://github.com/hugomachadorodrigues/soilvae
+	url = https://github.com/cran/soilVAE
