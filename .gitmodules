@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "GeoVersa"]
 	path = GeoVersa
-	url = https://github.com/cran/GeoVersa
+	url = https://github.com/hugomachadorodrigues/geoversa
 [submodule "soilFlux"]
 	path = soilFlux
 	url = https://github.com/cran/soilFlux
